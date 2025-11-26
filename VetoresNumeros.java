@@ -38,7 +38,7 @@ public class VetoresNumeros {
             System.out.print(n+ ", ");
 
         }
-/*
+         /*  
          * A seguir um exemplo de codigo que define e carrega um array com nros pares.
          * O maior nro armazenado é 100, o processamento ocorre na ordem: 100, 98, 96, 94...
          * Os nros são mantidos em ordem ascendente (2, 4, 6, 8...), note a lógica inversa
