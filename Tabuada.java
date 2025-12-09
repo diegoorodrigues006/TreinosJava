@@ -6,7 +6,7 @@
 *
 */
     
-import java.util.scanner;
+import java.util.Scanner;
 
 public class Tabuada {
 
@@ -14,7 +14,7 @@ public static void main(String[] args) {
 Scanner teclado = new Scanner(System.in);
 
 System.out.print("Informe o número para calcular a tabuada: ");
-int numero = teclaco.nextInt();
+int numero = teclado.nextInt();
 calculaTabuada(numero);
 }
 
@@ -29,7 +29,7 @@ static void calculaTabuada(int n) {
 
     System.out.println("Calculando tabuadas do " + n + "...");
 
-    for (int multiplicador = 1; multiplicador <= 10; multilplicados++) {
+    for (int multiplicador = 1; multiplicador <= 10; multilplicador++) {
         int resultado = multiplicador * n;
         System.out.println(n+" x "+multiplicador+" = " +resultado);
      }
