@@ -53,9 +53,9 @@ public class NumeroDivisiveisProcedimento {
         for (int n = minimo; n <= maximo; n++) {
             if (n % divisor == 0) {
         contador++;
-          System.out.println("\nO número " + n + " é divisível por " + divisor);
+          System.out.println("\tO número " + n + " é divisível por " + divisor);
             }
          
     }
-    }
+    }   
 }
