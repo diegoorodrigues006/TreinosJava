@@ -54,6 +54,8 @@ public class NumeroDivisiveisProcedimento {
             if (n % divisor == 0) {
         contador++;
           System.out.println("\tO número " + n + " é divisível por " + divisor);
+
+          
             }
          
     }

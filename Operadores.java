@@ -40,6 +40,10 @@ public class Operadores {
         //pos-incremento, similar x = x + 1 ou x+=1
         x++;
         System.out.println("Incremento de x = " + x);
+
+
+
+        
     }
 
 
