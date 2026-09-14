@@ -1,77 +1,115 @@
-# 📚 Sistema de Gerenciamento de Biblioteca
+# ☕ Práticas em Java
 
-Sistema desenvolvido em **Java** para gerenciamento de livros e usuários, com funcionalidades relacionadas ao controle de empréstimos, devoluções e consulta ao acervo.
+Repositório criado para reunir **exercícios, desafios e práticas de programação em Java**, com foco no aprendizado e na evolução dos conhecimentos na linguagem.
 
-O projeto foi desenvolvido com foco na aplicação prática de conceitos de **Programação Orientada a Objetos (POO)** e utilização de **Collections** em Java.
+Aqui estão organizados diferentes exemplos desenvolvidos durante os estudos, explorando desde conceitos fundamentais até recursos da **Programação Orientada a Objetos**.
 
-## 🚀 Funcionalidades
+## 🎯 Objetivo
 
-* 📖 Cadastro de livros
-* 👤 Cadastro de usuários
-* 🔄 Empréstimo de livros
-* ↩️ Devolução de livros
-* 🔎 Consulta ao acervo
-* 📚 Gerenciamento dos livros disponíveis
+Este repositório tem como objetivo:
 
-## 🛠️ Tecnologias utilizadas
+* Praticar a linguagem Java;
+* Reforçar fundamentos de programação;
+* Desenvolver raciocínio lógico e resolução de problemas;
+* Aplicar conceitos de Programação Orientada a Objetos;
+* Experimentar diferentes recursos e estruturas da linguagem;
+* Acompanhar minha evolução durante os estudos.
 
-* **Java**
-* **Programação Orientada a Objetos (POO)**
-* **Java Collections Framework**
+## 🛠️ Tecnologias e conceitos
 
-## 🧠 Conceitos aplicados
+* ☕ **Java**
+* 🧱 **Programação Orientada a Objetos (POO)**
+* 📦 **Collections**
+* 🔄 Estruturas de repetição
+* 🔀 Estruturas condicionais
+* 📋 Arrays e listas
+* 🔤 Manipulação de Strings
+* ⚠️ Tratamento de exceções
+* 🔧 Métodos e funções
+* 📐 Classes, objetos e encapsulamento
 
-Durante o desenvolvimento foram aplicados conceitos fundamentais da linguagem Java, como:
+## 📚 Conteúdo
+
+O repositório reúne práticas envolvendo diferentes níveis de dificuldade:
+
+### Fundamentos
+
+* Variáveis e tipos de dados
+* Operadores
+* Entrada e saída de dados
+* Estruturas condicionais
+* Estruturas de repetição
+
+### Estruturas de dados
+
+* Arrays
+* Listas
+* Collections
+* Manipulação e organização de dados
+
+### Programação Orientada a Objetos
 
 * Classes e objetos
-* Encapsulamento
-* Métodos e atributos
+* Atributos e métodos
 * Construtores
-* Relacionamento entre classes
-* Estruturas de dados
-* Collections
-* Regras de negócio para empréstimos e devoluções
+* Encapsulamento
+* Herança
+* Polimorfismo
+* Abstração
 
-## 📂 Estrutura do projeto
+### Exercícios e desafios
+
+* Exercícios de lógica de programação
+* Problemas matemáticos
+* Manipulação de dados
+* Pequenos sistemas e aplicações
+* Desafios práticos de programação
+
+## 📂 Organização
+
+Os exercícios são organizados de acordo com os assuntos estudados, facilitando a consulta e o acompanhamento da evolução.
 
 ```text
-SistemaBiblioteca/
-├── src/
-│   └── ...
-├── README.md
-└── ...
+Praticas-Java/
+├── fundamentos/
+├── estruturas-dados/
+├── poo/
+├── collections/
+├── exercicios/
+└── README.md
 ```
 
-> A estrutura acima pode variar de acordo com a organização do projeto.
+> A estrutura pode ser alterada conforme novos conteúdos e práticas forem adicionados ao repositório.
 
-## ▶️ Como executar
+## 🚀 Como executar
 
 ### Pré-requisitos
 
-É necessário ter o **Java JDK** instalado no computador.
+* **Java JDK** instalado;
+* Uma IDE ou editor de código, como **IntelliJ IDEA**, **Eclipse** ou **VS Code**.
 
-### Execução
+### Executando um exercício
 
-1. Clone este repositório:
+Clone o repositório:
 
 ```bash
 git clone URL_DO_REPOSITORIO
 ```
 
-2. Abra o projeto em uma IDE de sua preferência, como **Eclipse**, **IntelliJ IDEA** ou **VS Code**.
+Depois, abra o projeto em sua IDE e execute a classe Java correspondente ao exercício ou prática que deseja testar.
 
-3. Execute a classe principal (`Main`).
+## 📈 Evolução
 
-## 🎯 Objetivo do projeto
+Este é um repositório em constante desenvolvimento.
 
-Este projeto foi desenvolvido com o objetivo de praticar e consolidar conhecimentos em **Java e Programação Orientada a Objetos**, simulando um sistema simples de gerenciamento de uma biblioteca.
+Novos exercícios e projetos serão adicionados conforme avanço nos estudos de **Java, Programação Orientada a Objetos e desenvolvimento de software**.
 
 ## 👨‍💻 Autor
 
 **Diego**
 
-Estudante de **Ciência da Computação**, com interesse em desenvolvimento de software e tecnologia.
+Estudante de **Ciência da Computação**, atualmente desenvolvendo conhecimentos em programação e buscando evoluir na área de tecnologia.
 
 ---
 
-⭐ Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório!
+⭐ Repositório criado para prática, aprendizado e evolução contínua em Java.
