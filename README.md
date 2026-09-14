@@ -65,19 +65,6 @@ O repositório reúne práticas envolvendo diferentes níveis de dificuldade:
 * Pequenos sistemas e aplicações
 * Desafios práticos de programação
 
-## 📂 Organização
-
-Os exercícios são organizados de acordo com os assuntos estudados, facilitando a consulta e o acompanhamento da evolução.
-
-```text
-Praticas-Java/
-├── fundamentos/
-├── estruturas-dados/
-├── poo/
-├── collections/
-├── exercicios/
-└── README.md
-```
 
 > A estrutura pode ser alterada conforme novos conteúdos e práticas forem adicionados ao repositório.
 
